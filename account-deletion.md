@@ -14,7 +14,7 @@ Your account and data are deleted immediately.
 
 ## Option 2: Request deletion by email
 
-If you can no longer access the app, email **support@stylesense.app** from the email address associated with your account with the subject line "Account Deletion Request". We will verify your identity and delete your account within 30 days.
+If you can no longer access the app, email **privacy@sabarishraja.com** from the email address associated with your account with the subject line "Account Deletion Request". We will verify your identity and delete your account within 30 days.
 
 ## What gets deleted
 
@@ -31,4 +31,4 @@ When your account is deleted, we permanently remove:
 - **Aggregated, anonymized analytics** that cannot identify you may be retained for product improvement.
 - **Backups:** Residual copies in encrypted backups are purged within 30 days.
 
-For full details, see our [Privacy Policy](./privacy-policy).
+For full details, see our [Privacy Policy](https://stylesense.sabarishraja.com/privacy).

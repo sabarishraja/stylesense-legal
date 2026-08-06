@@ -2,7 +2,7 @@
 
 Legal pages for **StyleSense**, the AI-powered wardrobe manager.
 
-- 🔒 [Privacy Policy](./privacy-policy)
+- 🔒 [Privacy Policy](https://stylesense.sabarishraja.com/privacy) — now published on the StyleSense site
 - 🗑️ [Account & Data Deletion](./account-deletion)
 
-Questions? Contact **support@stylesense.app**.
+Questions? Contact **privacy@sabarishraja.com**.
